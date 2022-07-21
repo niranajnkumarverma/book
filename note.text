@@ -1,0 +1,41 @@
+Status(07-02-2022) 
+Leaving in next 10 min...
+- Create demo project (___Book Store Online _____).
+- Download Bootstrap HTML5 template for e-commerce website through HTTrack website copier
+- Setup HTML template and static file directory in  Django project
+- Load static template properly setup
+- create model, User, Product, Wishlist , cart, Transaction 
+- Mysql database connect with my project through Xampp server Control
+- create View user function registration, login, and logout_____(without Django Authentication use)
+- Setup Register throught two role   1.(I am customer), and 2.(I am Seller)
+- After register page redirect on send OTP (through email) then verify OTP redirect on login page
+- After User login has been successfuly then redirect profile page
+- Create seller_profile and user_profile page
+- Seller and customer All registration data load on profile page through user_role
+- Seller profile update page function added 
+- customer profile update page function added 
+- Create  link to Add product in seller account then load product home page
+- Product Update, and Delete the  product on seller page
+- Create user-APIView (using DRF)
+- Create product-APIView (using DRF)
+
+
+- Create edt and delete setup  to cart view and manage adding cart product 
+- Load cart product  on mycart page
+- product Quantity function add Increament && Decreament  onchange Submit
+- Add all cart price in subtotal price
+- create app folder inside file Paytm.py 
+- Create HTML file callback (Becouse Checksum verification message )
+- After Create API KEY setting (PAYTM_Marchant_ID and PAYTM_Seceret ID)
+- Cart Item price redirect on Paytm page then customer can pay online book Order
+
+
+Good Night
+
+
+
+Status(08-02-2022) 
+Leaving in next 10 min...
+- Learn web socket channel
+- Create user registration form 
+- Apply validation on user registration form 
